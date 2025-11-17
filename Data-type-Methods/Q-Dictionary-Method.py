@@ -82,9 +82,9 @@
 
                 # Question NO 13
 # Dictionary me kisi key ke existence ko check karne ke liye kaunsa operator use hota hai?
-d = {"name": "Ali", "age": 20}
-e = d["age"]
-print(e)
+# d = {"name": "Ali", "age": 20}
+# e = d["age"]
+# print(e)
 
 
                 # Question NO 14
