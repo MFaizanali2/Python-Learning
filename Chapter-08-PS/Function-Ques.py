@@ -15,3 +15,8 @@
 
 
         # Question No 2
+def convert(f):
+    return 5 * (f-32) / 9
+f: int = int(input("Enter Your Temperature: "))
+c = convert(f)
+print(f"{round(c, 2)}°C")
